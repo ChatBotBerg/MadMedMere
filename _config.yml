@@ -6,3 +6,37 @@ url: https://chatbotberg.github.io/MadMedMere/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+    Issue tracker på Github: https://github.com/ChatBotBerg/MadMedMere/issues
+
+# Makes auxiliary links open in a new tab
+aux_links_new_tab: true
+
+# Enable or disable the side/mobile menu globally
+nav_enabled: true
+
+# Sort order for navigation links
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+# Show navigation error report
+nav_error_report: true
+
+# Include the "docs" folder in the build
+include:
+  - docs
+
+# Enable the Just the Docs navigation
+just_the_docs:
+  collections:
+    docs:
+      output: true # Ensures the "docs" collection is rendered
+  navigation:
+    structure: nested # Enables nested navigation for subfolders
+
+# Default settings for files in the "docs" folder
+defaults:
+  - scope:
+      path: "docs" # Targets the "docs" folder
+      type: "pages"
+    values:
+      layout: "default" # Use the default layout provided by the theme
+      nav_exclude: false # Include in navigation

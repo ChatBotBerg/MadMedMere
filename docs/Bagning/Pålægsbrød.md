@@ -1,3 +1,7 @@
+---
+title: Pålægsbrød
+layout: default
+---
 # Hvad er Pålægsbrød ?
 
 Hvad er pålægsbrød ?, *spørger du nok dig selv* , Og hvorfor pipan skulle jeg dog lave det.

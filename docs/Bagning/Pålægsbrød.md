@@ -80,5 +80,9 @@ Kan holde sig 1 uge i køleren, kan også sagtens fryses ned
     - skær en skive og smør med vegansk margarine, ( eller smør hvis du kan tåle det)
     - nap en kop kaffe til og vær vældig tilfreds med dig selv.
     - find en stor skål eller en lille balje og tag dine handsker på
-    - 
-    - 
+  
+    **Tips & Triks**
+ - Man kan bruge rosiner eller svesker i stedet for dadler
+ - Besan mel & rismel gør brødet lettere
+ - hvis man bruger Jyttemel skal der mere vand i blandingen - og lidt mindre mel
+ - 

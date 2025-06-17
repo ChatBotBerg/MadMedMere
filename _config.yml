@@ -23,12 +23,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 # Show navigation error report
 nav_error_report: true # default is false/nil.
 
-defaults:
-  - scope:
-      path: "docs" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "docs"
-      nav_exclude: fales
-      submodules:
-        - "/docs/bagning/"
+collections:
+  bagning:
+    output: true
+  mad:
+    output: true

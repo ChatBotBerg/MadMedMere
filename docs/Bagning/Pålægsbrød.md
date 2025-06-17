@@ -1,6 +1,6 @@
 ---
 title: Pålægsbrød
-layout: default
+layout: home
 ---
 # Hvad er Pålægsbrød ?
 

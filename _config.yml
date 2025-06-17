@@ -23,8 +23,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 # Show navigation error report
 nav_error_report: true # default is false/nil.
 
-collections:
-  bagning:
-    output: true
-  mad:
-    output: true
+navigation:
+  - title: "Bagning"
+    url: /bagning/
+  - title: "Mad"
+    url: /mad/

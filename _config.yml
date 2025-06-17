@@ -6,7 +6,7 @@ url: https://chatbotberg.github.io/MadMedMere/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-    Issue tracker på Github: https://github.com/ChatBotBerg/MadMedMere/issues
+  Issue tracker på Github: https://github.com/ChatBotBerg/MadMedMere/issues
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

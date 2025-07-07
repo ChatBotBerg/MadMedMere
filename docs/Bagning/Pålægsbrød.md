@@ -1,7 +1,10 @@
 ---
 title: Pålægsbrød
-layout: home
+layout: default
+parent: Bagning
+nav_order: 3
 ---
+
 **Hvad er Pålægsbrød ?**
 
 Hvad er pålægsbrød ?, *spørger du nok dig selv* , Og hvorfor pipan skulle jeg dog lave det.

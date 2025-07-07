@@ -1,7 +1,7 @@
 ---
-title: Om Mad Med Mere
+title: Home
 layout: home
-navorder: 1
+nav_order: 1
 ---
 Velkommen 
 -

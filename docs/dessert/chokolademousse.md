@@ -1,7 +1,7 @@
 ---
 title: Chokolademousse
 layout: default
-parent: desserter
+parent: Desserter
 nav_order: 1
 ---
 

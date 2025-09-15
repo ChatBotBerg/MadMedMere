@@ -11,7 +11,7 @@ Den er lidt tids og indsatskrævende, men tro mig den er hele besværet værd
 Den er altid på nytårsmenyen gerne i selskab med en citron lime sorbet. Når vi er 2 til middag laver jeg 3 portioner og når vi er 4 laver jeg 6, bare for at være sikker på at der er en rest til dagen efter.
 
 ### Ingrediensliste til 3 personer
-- 1 dl Chokolade plante mælt (meget gerne alpro's dark chokolade)
+- 1 dl plante mælt (meget chokoladelækkert hvis man bruger alpro's dark chokolade)
 - 100g mørk hakket chokolade i god kvalitet ( evt med strejf af appelsin)
 - 1 æggeblomme
 - 2 æggehvider

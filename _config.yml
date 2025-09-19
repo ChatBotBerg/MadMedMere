@@ -2,6 +2,11 @@ title: Mad Med Mere
 description: En side hvor jeg deler ideer, inspiration og gode råd
 theme: just-the-docs
 
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "11.9.0"
+
 url: https://chatbotberg.github.io/MadMedMere/
 
 aux_links:
@@ -28,3 +33,4 @@ navigation:
     url: /bagning/
   - title: "Mad"
     url: /mad/
+

@@ -22,7 +22,7 @@ Mange års fysisk ubehag over traditionel dansk lanbo-kost, har imidlertid ført
 
 DISCLAIMER
 -
-Jeg vil gerne understrege at det jeg deler er pragmatisk allemands viden og at jeg hverken har videnskabeligballast eller forskningserfaring inden for feltet. Det eneste jeg har er en parktisk opbygget erfaring i hvad der virker, hvad der ikke virker og hvad der virkelig kan gå galt. 
+Jeg vil gerne understrege at det jeg deler er pragmatisk allemands viden og at jeg hverken har videnskabeligballast eller forskningserfaring inden for feltet. Det eneste jeg har er en praktisk opbygget erfaring i hvad der virker, hvad der ikke virker og hvad der virkelig kan gå galt. 
 
 Så hvis det ikke har skræmt di er du velkommen til at gå ombord i det univers som jeg (forhåbentlig) får opbygger over tid. 
 

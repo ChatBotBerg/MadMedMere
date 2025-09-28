@@ -63,7 +63,7 @@ Opskriften herunder er Mexikansk, men jeg er slet slet ikke færdig med at lege 
    
 7)  Purrer mosen med en stavblender, eller i en foodprocessor. Du bestemmer selv konsistensen.
 
-*Et lille tips er dog at de folk der ikke ligefrem er bønne entuiaster bedst kan forholdesig til en silkeblød mos.*
+    *Et lille tips er dog at de folk der ikke ligefrem er bønne entuiaster bedst kan forholdesig til en silkeblød mos.*
 
 10) Smag mosen til med limesaft, salt og peber. og lidt ekstra krydderi - som f.eks lidt tabasco eller lidt chilli.
 

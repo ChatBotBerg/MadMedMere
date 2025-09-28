@@ -1,7 +1,7 @@
 ---
 title: Pålægsbrød
 layout: default
-parent: bageopskrifter
+parent: Bageopskrifter
 nav_order: 3
 ---
 

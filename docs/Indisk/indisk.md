@@ -2,7 +2,7 @@
 title: Det Indiske Køkken
 layout: default
 nav_order: 3
-has_children: true
+has_children: false
 ---
 
 Det indiske køkken er varieret og mangeartede. Jeg selv troede engang at boller i karry ala mormor var indisk insoireret og at indisk takeawai i london var autentisk, men alt dette ændrede sig da jeg kom til Indien ( på grund af mit arbejde).

@@ -70,8 +70,8 @@ Som det er med så mange andre Indiske retter skal der bruges store mængder af 
 - 3-4 Citroner ( du skal bruge både 8-10 skiver og 2 ss saft)
 
 **Det fra special butikker** ( eller fra din grønthandler hvis han har et stort udvalg af mellemøstlige specialiteter)
-- 5 tørrede blommer ( A
-- 1 tsk KeWra essens ( købes i små flasker)
+- 5 ALU BUKHARA (tørrede blommer)
+- 1 tsk Kewra essens ( købes i små flasker)
 - gul/orange madfarve
 
 **Det fra Krydderiskuffen**

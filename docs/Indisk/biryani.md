@@ -1,11 +1,11 @@
 ---
-title: Autentisk bryai´ni
+title: Autentisk Bryaini
 layout: default
 parent: Indisk
 nav_order: 1
 ---
 
-# Autentisk bryani
+# Autentisk Bryani
 
 **Man man spørge sig selv om hvorfor det er nødvendig at pointere at en bryani er autetisk, - man kan også lade være.**
 

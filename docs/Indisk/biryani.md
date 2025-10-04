@@ -5,7 +5,7 @@ parent: Indisk
 nav_order: 1
 ---
 
-## Autentisk bryani
+# Autentisk bryani
 
 **Man man spørge sig selv om hvorfor det er nødvendig at pointere at en bryani er autetisk, - man kan også lade være.**
 
@@ -17,7 +17,7 @@ Jeg har kun virkelig oplevet at blive "banket tilbage til mit, lidt for lange,  
 
 Da det kan være både dyrt og tidskrævende at smutte til Birgminham for at opleve nord indisk cuisine foreslår jeg derfor at man gør sig ulejligheden at få fat i ALLE ingredienserne til denne opskrift, og sætter tiden af.
 
-### Om retten
+## Om retten
 
 Det tager 2 dage at lave retten, - eller rettere kyllingen skal i marinade aftenen før og man skal gå i gang omkring 2 en halv timer før retten skal på bordet ( 3 hvis man ikke er inde i rutinen).
 
@@ -92,3 +92,5 @@ Som det er med så mange andre Indiske retter skal der bruges store mængder af 
   0,5 ts hele sorte peberkorn
   
 # Opskrifts detaljer og Fremgangsmåde
+
+Fortsættelse følger

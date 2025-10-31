@@ -19,17 +19,15 @@ Da det kan være både dyrt og tidskrævende at smutte til Birgminham for at opl
 
 ## Om retten
 
-Det tager 2 dage at lave retten, - eller rettere kyllingen skal i marinade aftenen før og man skal gå i gang omkring 2 en halv timer før retten skal på bordet ( 3 hvis man ikke er inde i rutinen).
+**Det tager 2 dage at lave retten**, - eller rettere kyllingen skal i marinade aftenen før og man skal gå i gang omkring 2 en halv timer før retten skal på bordet ( 3 hvis man ikke er inde i rutinen).
 
 Tidsplanen er som flg ( du får detaljerne neden under opskriften - det er bare godt at vide hvor meget tid man skal sætte af inden man kaster sig over opskriften):
 
 ***Dagen før*** (1-3 timer alt efter hvor lang tid det tager dig at klargøre kyllingern og om du er så overskudsagtig at du koger en kyllinge fon)
-- Bland marinaden (15 min)
-- gør kyllingen klar (5 til 45 min afhængig af om du tager udgangspunkt i en hel kylling, eller i noget der allerede er skåret i strimler
-- Bland det hele sammen" (5-10 min)
-- sæt på køl.
-
-- Kog evt en kyllingefon på de ben og sener der er til rest når du har skåret kødet fra (10 min forberedelse - 20 min kogning i trykkoger eller 2 timer i gryde)
+- 
+- Udben kyllingen (5 til 45 min afhængig af om du tager udgangspunkt i en hel kylling, eller i noget der allerede er skåret i strimler
+- Mariner Kyllingen " (15-20 min)
+- Lav e.v.t  en kyllingefon på de ben og sener der er til rest når du har skåret kødet fra (10 min forberedelse - 20 min kogning i trykkoger eller 2 timer i gryde)
 
  ***På dagen*** ( 2,5 til 3 timer alt efter hvor hurtig du er )
  - tag kyllingen ud af køleren så den får stuetemperatur en times tid før du går i gang med selve retten.
@@ -69,6 +67,7 @@ Som det er med så mange andre Indiske retter skal der bruges store mængder af 
 - 1 bundt mynte (du skal bruge mindst 1 dl hakket mynte til topping og til servering)
 - 3-4 Citroner ( du skal bruge både 8-10 skiver og 2 ss saft)
 
+
 **Det fra special butikker** ( eller fra din grønthandler hvis han har et stort udvalg af mellemøstlige specialiteter)
 - 5 ALU BUKHARA (tørrede blommer)
 - 1 tsk Kewra essens ( købes i små flasker)
@@ -90,7 +89,47 @@ Som det er med så mange andre Indiske retter skal der bruges store mængder af 
 - 2 kanelstænger på 7,5 cm
 - 0,75 ts spidskommenfrø ( hele)
   0,5 ts hele sorte peberkorn
+  - 3-4 lauerbærblade til kyllingefon
   
 # Opskrifts detaljer og Fremgangsmåde
 
-Fortsættelse følger
+***Dag 1***
+1. **Udben kyllingen***
+   - skær lår og brystkød fra kyllengen, fjern skindet og skær kødet fri af bebebe
+   - fjern ben og sener fra kødet på kyllingelårene.
+   - skær kyllingekødet i store tern (3*3 cm cirka)
+   - læg ben, skind og sener til side til senere
+   *hvis du har valgt at bruge kyllingelår i stedet skal du bare sikre dig at du har omkring 600G kyllingekød*
+
+3. **Mariner Kyllingen og kom den i køleskabet** 
+   Bland følgende ingredienser sammen i en bøtte eller en  pose:
+      -  
+4. **Kog fon på kyllingeskroget**
+   Kom flg i  enten gryde eller trykkoger:
+   - ben, skind og sener fra kyllingen 
+   - 2 små gulerødder
+   - 1 stort løg
+   - 2 stængler sclleri
+   - 2-3 lauerbærblade
+
+  Indstil trykkogeren på 20 min ( hvis den er elektrisk), eller bring gryden i kog under tryk og lad den **koge i 20 min.**
+  Hvis du koger fonnen i en almindelig gryde skal det simre i mindst 2 timer, derudover kan du med fordel komme lidt flydende kyllingeboullion i gryden fra start
+
+***Dag 2***
+1. **Klargør dine ris og stil dem tilside**
+   - Kom 350 g langkornede Basmatiris i en fintmasket si (Hvis du ikke har en si kan du bruge en af de der grøntsagsnet man kan få i supermarkederne)
+   - Skyld  risene grundigt (vandet skal være klart inden du stopper med at skylle
+   - læg risene i blød i rigeligt vand ( mindst xx liter)
+   - stil risene til side
+     
+2. **tilbered kyllingen**
+   - 
+3. **kog risene medens kyllingen simre**
+
+4. **Byg din bryani i en tykbundet gryde**
+
+5. **Damp bryanien efter "DUMP" metoden**
+
+6. **Lad retten hvile i 10 min medens du laver en raita og dækker bord**
+
+

@@ -9,7 +9,7 @@ nav_order: 3
 
 Hvad er pålægsbrød ?, *spørger du nok dig selv* , Og hvorfor pipan skulle jeg dog lave det.
 
-Pålægsbrød er en gluten og mælkefri erstatning for det goe gamle danske  Rugbrød. Jeg begyndte at bage dette brød i protest over at skulle give 46 kroner for 4 skiver kedeligt landbrød fra schar eller 52 kroner og en cykkeltur på 30 min for en næsten ligeså dedelig bager variant. 
+Pålægsbrød er en gluten og mælkefri erstatning for det goe gamle danske  Rugbrød. Jeg begyndte at bage dette brød i protest over at skulle give 46 kroner for 4 skiver kedeligt landbrød fra schar eller 52 kroner og en cykkeltur på 30 min for en næsten ligeså kedelig bager variant. 
 
 Efter i mit søgen efter et mørkt brød der bare hang nogenlunde sammen, og som det ikke krævede en bageruddannelse eller en million eksotiske meltype at bage, faldt jeg over Karina Vageø's opskrift på Kernebrød, som jeg straks ville gå igang med at bage. Men ak og ve, min røremaskine var for lille til at jeg kunne honorere Karinas krav om at der skulle røres kraftigt i mange minutter, og jeg manglede halvdelen af ingredienserne.
 

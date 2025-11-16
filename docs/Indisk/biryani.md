@@ -1,7 +1,7 @@
 ---
 title: Autentisk Bryaini
 layout: default
-parent: Indisk
+parent: Det Indiske Køkken
 nav_order: 1
 ---
 

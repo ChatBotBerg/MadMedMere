@@ -1,7 +1,7 @@
 ---
 title: Dhal
 layout: default
-parent: Indisk
+parent: Det Indiske Køkken
 nav_order: 2
 ---
 # Dhal

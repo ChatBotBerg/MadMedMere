@@ -34,12 +34,14 @@ Opskriften er en cirka anvisning, hvor man kan mixe som det passer en eller i fo
 - 4 ts salt
 
 **Opskrift i grove træk**
-1)  Kog 2-5 dl vand og udblød dadlerne i det i 5 min, blend og bland med resten af vandet,
-2)  tilsæt loppefrøskaller og pisk godt, tilsæt så resten af kernerne og lad blandingen stå i 15 min,
-3)  kom melblanding, bagepulver og salt i og bland det hele godt sammen ( med fingrene)
-4)  fordel i 2 brødforme- form oversiden med våde fingre- prik huller i dejen så den kan hæve.
-5)  bag 1 timer og 15 min i formen  + 45 minutter ude af formen
-6)  Køl, skær og nyd dit brød
+1. Kog 2-5 dl vand og udblød dadlerne i det i 5 min, blend og bland med resten af vandet
+2. Tilsæt loppefrøskaller og pisk godt, tilsæt så resten af kernerne og lad blandingen stå i 15 min,
+3. Kom melblanding, bagepulver og salt i og bland det hele godt sammen ( med fingrene)
+4. Fordel i 2 brødforme- form oversiden med våde fingre-
+5. Prik huller i dejen så den kan hæve.
+6. Bag 1 timer og 15 min i formen
+7. Tag brødet ud af formen og bag i yedrlige 45 minutter
+8. Køl, skær og nyd dit brød
 
 Kan holde sig 1 uge i køleren, kan også sagtens fryses ned
 

@@ -16,7 +16,7 @@ Nogle gange bliver den lavet med tomat purre, nogle gange med kokosmælo og nogl
 Jeg tror engang jeg havde en opskrift eller fem som jeg kombinatorikkede dagens variant ud fra, men efterhånden er det bare sådan noget man gør uden at tænke på andet end at dagens smagsvariant skal passe til dagens humør,
 ( og evt til de stakkels medspisende der endnu engang bliver belemret med en gang indi snask.)
 
-**Grundingredienserne er **
+**Grundingredienserne er**
 - Olie til stegning
 - Hakket løg
 - revet ingefær
@@ -26,7 +26,7 @@ Jeg tror engang jeg havde en opskrift eller fem som jeg kombinatorikkede dagens 
 - evt tomatpurre, pasata eller hakkede tomater
 - boullion efter behag (som min mormor ville have udtrykt det)
   
-**Fremgangsmåden er **
+**Fremgangsmåden er**
 - løgene klares-( som man jo siger- dvs de steges ved svag varme til de er blevet bløde og glasklare)
 - ingefær og krydderier kommes
 - Linserne følger hurtigt efter 

@@ -23,13 +23,12 @@ Da det kan være både dyrt og tidskrævende at smutte til Birgminham for at opl
 
 Tidsplanen er som flg ( du får detaljerne neden under opskriften - det er bare godt at vide hvor meget tid man skal sætte af inden man kaster sig over opskriften):
 
-***Dagen før*** (1-3 timer alt efter hvor lang tid det tager dig at klargøre kyllingern og om du er så overskudsagtig at du koger en kyllinge fon)
-- 
+**Dagen før** (1-3 timer alt efter hvor lang tid det tager dig at klargøre kyllingern og om du er så overskudsagtig at du koger en kyllinge fon)
 - Udben kyllingen (5 til 45 min afhængig af om du tager udgangspunkt i en hel kylling, eller i noget der allerede er skåret i strimler
 - Mariner Kyllingen " (15-20 min)
 - Lav e.v.t  en kyllingefon på de ben og sener der er til rest når du har skåret kødet fra (10 min forberedelse - 20 min kogning i trykkoger eller 2 timer i gryde)
 
- ***På dagen*** ( 2,5 til 3 timer alt efter hvor hurtig du er )
+ **På dagen** ( 2,5 til 3 timer alt efter hvor hurtig du er )
  - tag kyllingen ud af køleren så den får stuetemperatur en times tid før du går i gang med selve retten.
  - Klargør ris (10 min)
  - Sauter løg laangsomt (20 min)

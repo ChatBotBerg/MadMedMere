@@ -2,7 +2,7 @@
 title: Sort Bønnemos
 layout: default
 parent: Boblere
-nav_order: 3
+nav_order: 1
 ---
 
 **Sort Bønnemos**

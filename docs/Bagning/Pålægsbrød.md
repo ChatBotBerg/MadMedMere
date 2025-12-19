@@ -9,7 +9,7 @@ nav_order: 3
 
 Hvad er pålægsbrød ?, *spørger du nok dig selv* , Og hvorfor pipan skulle jeg dog lave det.
 
-Pålægsbrød er en gluten og mælkefri erstatning for det goe gamle danske  Rugbrød. Jeg begyndte at bage dette brød i protest over at skulle give 46 kroner for 4 skiver kedeligt landbrød fra schar eller 52 kroner og en cykkeltur på 30 min for en næsten ligeså dedelig bager variant. 
+Pålægsbrød er en gluten og mælkefri erstatning for det goe gamle danske  Rugbrød. Jeg begyndte at bage dette brød i protest over at skulle give 46 kroner for 4 skiver kedeligt landbrød fra schar eller 52 kroner og en cykkeltur på 30 min for en næsten ligeså kedelig bager variant. 
 
 Efter i mit søgen efter et mørkt brød der bare hang nogenlunde sammen, og som det ikke krævede en bageruddannelse eller en million eksotiske meltype at bage, faldt jeg over Karina Vageø's opskrift på Kernebrød, som jeg straks ville gå igang med at bage. Men ak og ve, min røremaskine var for lille til at jeg kunne honorere Karinas krav om at der skulle røres kraftigt i mange minutter, og jeg manglede halvdelen af ingredienserne.
 
@@ -34,12 +34,14 @@ Opskriften er en cirka anvisning, hvor man kan mixe som det passer en eller i fo
 - 4 ts salt
 
 **Opskrift i grove træk**
-1)  Kog 2-5 dl vand og udblød dadlerne i det i 5 min, blend og bland med resten af vandet,
-2)  tilsæt loppefrøskaller og pisk godt, tilsæt så resten af kernerne og lad blandingen stå i 15 min,
-3)  kom melblanding, bagepulver og salt i og bland det hele godt sammen ( med fingrene)
-4)  fordel i 2 brødforme- form oversiden med våde fingre- prik huller i dejen så den kan hæve.
-5)  bag 1 timer og 15 min i formen  + 45 minutter ude af formen
-6)  Køl, skær og nyd dit brød
+1. Kog 2-5 dl vand og udblød dadlerne i det i 5 min, blend og bland med resten af vandet
+2. Tilsæt loppefrøskaller og pisk godt, tilsæt så resten af kernerne og lad blandingen stå i 15 min,
+3. Kom melblanding, bagepulver og salt i og bland det hele godt sammen ( med fingrene)
+4. Fordel i 2 brødforme- form oversiden med våde fingre-
+5. Prik huller i dejen så den kan hæve.
+6. Bag 1 timer og 15 min i formen
+7. Tag brødet ud af formen og bag i yedrlige 45 minutter
+8. Køl, skær og nyd dit brød
 
 Kan holde sig 1 uge i køleren, kan også sagtens fryses ned
 

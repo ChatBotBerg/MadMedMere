@@ -16,11 +16,11 @@ Nytårsferien i 2025 består af 2 perioder:
   - pyjamas kaffe
   - Improviseret planlægningsfrokost
   - noget nemt 
-- 
+
 **21 dec: Sunday roast**
 - Holliday Brunch
 - TBD
-- 
+
 **22 dec: Panik før lukketid**
   - ToGo kaffe på vej ud af døren
   - Frokost på farten
@@ -43,7 +43,7 @@ Nytårsferien i 2025 består af 2 perioder:
 - Traditionel Julemiddag
   - And med det hele og lidt til
   - Lime fromage med runde hjørner
-  - 
+  
 **25 dec: Store pyamas dag**
   - Pyamaspjanket egoist kaffe
   - Fri fortolkning af den klassiske Julefrokost
@@ -64,7 +64,7 @@ Nytårsferien i 2025 består af 2 perioder:
 **28 dec: Stille julefred på hyttan**
 - Full english Breakfast
 - Frokostvariant bestemt af dagsformen
-- ***Chilliconcarne med Oksebov -  [Opskrift](https://gastromand.dkchili-con-carne-opskrift/)***
+- ***Chilliconcarne med Oksebov -  [Opskrift fra gourmet ministeriet](https://gourministeriet.dk/chili-con-carne-med-oksebov/)***
 - Gammeldags æblekage - med hjemmelavede makroner
   
   

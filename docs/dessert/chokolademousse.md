@@ -4,6 +4,7 @@ layout: default
 parent: Desserter
 nav_order: 1
 ---
+# Chokolademousse
 
 Chokolademousse er en af mine afsolutte favoritter når det kommer til dessert, spedielt  efter jeg fik konstureret denne lille chokoladesyndighed.
 Den er lidt tids og indsatskrævende, men tro mig den er hele besværet værd

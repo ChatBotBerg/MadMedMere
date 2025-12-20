@@ -5,7 +5,7 @@ parent: Boblere
 nav_order: 1
 ---
 
-**Sort Bønnemos**
+# Sort Bønnemos
 
 Sort bønnemos er ikke for sarte sjæle, deter uskønt at kikke på og man kan aldrig være helt sikker på hvor stærkt, fodformet eller grynet det er, det afhænger helt af processen bag mosen.
 
@@ -65,6 +65,6 @@ Opskriften herunder er Mexikansk, men jeg er slet slet ikke færdig med at lege 
 
     *Et lille tips er dog at de folk der ikke ligefrem er bønne entuiaster bedst kan forholdesig til en silkeblød mos.*
 
-10) Smag mosen til med limesaft, salt og peber. og lidt ekstra krydderi - som f.eks lidt tabasco eller lidt chilli.
+8)  Smag mosen til med limesaft, salt og peber. og lidt ekstra krydderi - som f.eks lidt tabasco eller lidt chilli.
 
-11) Server denne meksikanske verison som dip til nachos eller vegetarisk fyld i tortillas eller tacos.
+9)  Server denne meksikanske verison som dip til nachos eller vegetarisk fyld i tortillas eller tacos.

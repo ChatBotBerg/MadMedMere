@@ -5,7 +5,7 @@ parent: Desserter
 nav_order: 2
 ---
 
-**Citron-Lime sorbet**
+# Citron-Lime sorbet
 
 Denne nemme og enkle sorbet tager oplevelsen ved at spise Citrus soebet til nye højder. 
 Isen kkan laves uden brug af ismaskine, men kræver at man har en kraftig blender til rådighed dagen før man spiser isen.

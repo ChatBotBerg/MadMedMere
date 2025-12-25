@@ -2,7 +2,7 @@
 title: Pålægsbrød
 layout: default
 parent: Bageopskrifter
-nav_order: 3
+nav_order: 1
 ---
 
 **Hvad er Pålægsbrød ?**

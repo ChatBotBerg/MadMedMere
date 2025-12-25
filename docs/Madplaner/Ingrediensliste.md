@@ -16,8 +16,6 @@ has_children: false
   - Høns i asparges af brystet (frokost)
 - Oksebov i tern
   - Chilliconcarne
-- Andebryst (sousvide) 
-  - Aften Wok med Asiasiske
 - Guanciale eller Panchetta
   - pasta cabonara 
 - Bacon
@@ -40,6 +38,7 @@ has_children: false
   - Aloo Palak
 - Pasta alm + GF
   - Pasa cabonada
+- Suppehorn ( tomatsuppe)
   
 ***mejerivarer***
 
@@ -87,28 +86,23 @@ has_children: false
 **Grønt og dets anvendelse***
 
 - Frosset spinat (aloo Palak)
-- Sugar snaps
-- evt Kinaradisse
 - Bleg selleri
 - Gulerod
-- Spidskål
 - svampe ( svampestuvning)
 - bønner, champignons eller asperges (risotto)
 - Peberfrugtter
-  - WOK
   - Chilliconcarne
 - Chilli
   - Chilliconcarne
   - Aloo Palak
   - Tandori kylling
-  - Wok
 - løg (alle aftenretter)
   - Chiliconcarne 2. stk
   - Risotto 2 stk 
   - Tandorikylling
   - frokost
 - Hvidløg
-- Ingefær ( Wok + indiske retter)
+- Ingefær  indiske retter)
 - Frisk koriander (tandori kylling)
 - Frisk mynte (Raita)
 
@@ -121,13 +115,6 @@ Makoner
 evt Kage eller kokostoppe
 
 ***Krydderier pr opskrift***
-
-
-Ande WOK
-- Green curry
-- ingefær
-- hvidløg
-  
    
 Chilliconcarne
 

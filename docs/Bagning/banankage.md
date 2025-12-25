@@ -5,7 +5,8 @@ parent: Bageopskrifter
 nav_order: 4
 ---
 
-**Svampet Banankage**
+# Svampet Banankage
+
 En glutenfri og super enkel bradepandekage, der smager goddt holdersig godt og kan fryses.
 
 Opskriften kræver ikke at man tager den store maskinpark i brug man kna let laves med en håndmixer.

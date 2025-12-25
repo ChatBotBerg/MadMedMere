@@ -10,7 +10,7 @@ has_children: false
 **27 dec: Indkøb og afrejse**
 - Morge mad på farten
 - Frokost i fri dressur
-- ***Aften Wok med Asiasiske noter og And***
+- ***Tomatsuppe med brød og suppehorn***
 
 **28 dec: Stille julefred på hyttan**
 - Full english Breakfast

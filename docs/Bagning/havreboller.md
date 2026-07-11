@@ -1,5 +1,5 @@
 ---
-title: Pålægsbrød
+title: Havreboller
 layout: default
 parent: Bageopskrifter
 nav_order: 2

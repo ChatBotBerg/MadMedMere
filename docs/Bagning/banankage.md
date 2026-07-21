@@ -13,7 +13,7 @@ Opskriften kræver ikke at man tager den store maskinpark i brug man kna let lav
 
 Da dette er min absolutte panik kage, plejer jeg at have protioner med afskallede bananer klar i fryseren.
 Så er det bare at tage dem op - og tage dem ud af fryseposenog ligge dem i den skål de skal moses/ blendes i med det samme. 
-Tro mig man skal IKKE lade bananerne tø op i posen det bliver noget gratværk ( som min mormor ville have sagt)
+Tro mig man skal IKKE lade bananerne tø op i posen det bliver noget gratværk (som min mormor ville have sagt)
 
 
 **Ingredienser**
@@ -32,6 +32,6 @@ Tro mig man skal IKKE lade bananerne tø op i posen det bliver noget gratværk (
 4. Vend de tørre ingredienser i æggemassen, skiftevis med smør.
 5. Vend bananen i og hæld i en brødform.
 6. Bag ved 175 grader i ca 55 min. Vend ud på en rist og afkøl.
-7. Overtræk evt med chokolade (du bruger bare din yndlingschokolade!
+7. Overtræk evt med chokolade (du bruger bare din yndlingschokolade!)
 
    

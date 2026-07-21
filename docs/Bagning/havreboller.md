@@ -25,7 +25,7 @@ Alt havd der kræves af udstyr er:
 **Ingredienser**
   - 100 g havermel
   - 70 gram boghvedemel ( eller ærtemel)
-  - 60 g havergryn
+  - 55 g havergryn
   - 40 g Maizenamel
   - 4 dl lunkent vand
   - 15 g gær
@@ -34,7 +34,7 @@ Alt havd der kræves af udstyr er:
   - 1 lille ts honning ( 8g)
   - 18 gram loppefrøskaller
 
-  - 
+
 **fremgangsmåde**
 ***lav dejen***
 1. Bland mel og havregryn
@@ -51,10 +51,32 @@ Alt havd der kræves af udstyr er:
 Hvis du lige pludselig får oceaner af tid, eller du havde glemt hvad klokken er kan du vælge at lade dejen hæve i 2 timer på køkkenbordet og natten ove i køleren.
 
   ***bag***
-  1. Opvarm Ovnen til 250  grader
-  2. bag bollerne i 20 minutter
-  3. Skru ned på 200
-  4. Bag videre i ca 20 min
-  5. Vend bollerne ud af muffinformen og bag yderligere ca 10 min
+  1. Opvarm Ovnen til 175 grader
+  2. bag bollerne i 25 minutter
+  3. Vend bollerne ud af muffinformen 
+  4. Bag yderligere ca 15 min
 
 
+  ***Tips til variation***
+Efterhånden som opskrifte er kommet ind under huden å mig er jeg begyndt at sjusse lidt med indholdet og arbejde med dobbeltportion.
+Jeg eksperimenterer med at blande mel og "gryn" frit, men holder dog fast ved mængdenb af maizener ind til videre. 
+Min erfaring er at jo lysere melen er jo mere fødselsdags agtige er de.
+
+**Lige nu ser min go-to opskrift sådan ud:**
+
+  - 340 g blandet mel som f.eks
+     - 100 g Havre mel 
+     - 100 g boghvede eller ingridærte mel 
+     - 140 g Glutenfrit lyst mel til kager, tærter eller pasta)
+     Jo lysere melet er jo mere fødselsdagsbolle agtig bliver det 
+  - 70 gram boghvedemel ( eller ærtemel)
+  - 110 g gryn
+    -190 g havre gryn
+    - 50 g Chia gryn 
+  - 80 g Maizenamel
+  - 48 dl lunkent vand
+  - 25- 30 g gær
+  - 2 æggehvider
+  - 2 ts salt ( 16g)
+  - 2 lille ts honning (16g)
+  - 35-40 gram loppefrøskaller eller fiberhusk

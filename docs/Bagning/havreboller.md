@@ -18,9 +18,9 @@ Alt havd der kræves af udstyr er:
 - en vægt
 - et decilitermål ( eller et godt øjemål)
 - et piskeris
-- silikone forme til 12 muffins ( gerner lidt store )
+- silikone forme til 10 - 12 muffins ( gerner lidt store )/18 hvis du laver dobbelt portion 
 - en ovn
-- OG 15 minutters koncentration
+- OG 15-20 minutters koncentration
 
 **Ingredienser**
   - 100 g havermel
@@ -36,7 +36,6 @@ Alt havd der kræves af udstyr er:
 
 
 **fremgangsmåde**
-***lav dejen***
 1. Bland mel og havregryn
 2. bland vang og gær
 3. tilsæt æggehvide, salt og honning til vand & gær
@@ -44,9 +43,7 @@ Alt havd der kræves af udstyr er:
 5. tilsæt melet og rør til du har en jævn masse
 6. stil dejen tilside og smør ding muffinforme
 7. fordel dejen i muffinformene.
-
-**stil til hævning**
-1. stil dejen et lunt sted til den er hævet til dobbelt størrelse (ca 2-3 timer)
+8. stil dejen et lunt sted til den er hævet til dobbelt størrelse (ca 2-3 timer)
 
 Hvis du lige pludselig får oceaner af tid, eller du havde glemt hvad klokken er kan du vælge at lade dejen hæve i 2 timer på køkkenbordet og natten ove i køleren.
 

@@ -7,7 +7,7 @@ nav_order: 1
 
 # Hvad er Pålægsbrød ?
 
-Hvad er pålægsbrød ?, *spørger du nok dig selv* , Og hvorfor pipan skulle jeg dog lave det.
+Hvad er pålægsbrød , *spørger du nok dig selv* , Og hvorfor pipan skulle jeg dog lave det?
 
 Pålægsbrød er en gluten og mælkefri erstatning for det goe gamle danske  Rugbrød. Jeg begyndte at bage dette brød i protest over at skulle give 46 kroner for 4 skiver kedeligt landbrød fra schar eller 52 kroner og en cykkeltur på 30 min for en næsten ligeså kedelig bager variant. 
 
